@@ -9,6 +9,8 @@ Kumail Ahmed
 
 This project automatically detects and classifies faults in Squirrel Cage Induction Motors (SCIM) using Motor Stator Current Analysis (MCSA). It uses Simulink to simulate motor data, converts the signals into spectrograms, and trains a CNN to classify faults.
 
+**See PPT for more detailed description**
+
 The model achieves **98.1% test accuracy** across 6 fault classes.
 
 ---
